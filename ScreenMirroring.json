@@ -4,7 +4,7 @@
       {
 		  
 			"BannerAd": "max",
-			"InterstitialAd": "ironsource",
+			"InterstitialAd": "facebook",
 			"NativeAd": "max",
 
 			"Gift": "yes",
@@ -32,7 +32,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-		"intersitial_click_counter": 5
+		"intersitial_click_counter": 1
 		
 	
       }	  
