@@ -4,7 +4,7 @@
       {
 		  
 			"BannerAd": "max",
-			"InterstitialAd": "admob",
+			"InterstitialAd": "ironsource",
 			"NativeAd": "max",
 
 			"Gift": "yes",
@@ -21,7 +21,7 @@
         "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
         "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
         
-		"ironsource_appKey": "1011dee21",
+		"ironsource_appKey": "168ad62ed",
 		
 		"unity_game_id": "3883855",
 		"unity_test": true,
