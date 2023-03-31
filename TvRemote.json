@@ -13,9 +13,9 @@
 			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-			"MaxBanner": "YOUR_AD_UNIT_ID",
-			"MaxInter": "YOUR_AD_UNIT_ID",
-			"MaxNative": "YOUR_AD_UNIT_ID",
+			"MaxBanner": "",
+			"MaxInter": "15b95755cc615c62",
+			"MaxNative": "778f953e3716872e",
 	      
 	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
         "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
