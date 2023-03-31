@@ -3,15 +3,15 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "facebook",
-			"InterstitialAd": "facebook",
-			"NativeAd": "facebook",
+			"BannerAd": "max",
+			"InterstitialAd": "admob",
+			"NativeAd": "max",
 
 			"Gift": "no",
 	      
-                        "BannerAdmob": "",
-			"InterAdmob":  "",
-			"NativeAdmob": "",
+                        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"MaxBanner": "",
 			"MaxInter": "15b95755cc615c62",
@@ -32,7 +32,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-		"intersitial_click_counter": 1
+		"intersitial_click_counter": 3
 		
 	
       }	  
