@@ -3,9 +3,9 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "admob",
-			"InterstitialAd": "facebook",
-			"NativeAd": "facebook",
+			"BannerAd": "max",
+			"InterstitialAd": "max",
+			"NativeAd": "max",
 
 			"MyPromo": "no",
 	       
@@ -14,8 +14,8 @@
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"MaxBanner": "",
-			"MaxInter": "",
-			"MaxNative": "",
+			"MaxInter": "c8fcf73c23f17ffb",
+			"MaxNative": "d970edf1b5da92f3",
 	      
       	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
         "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
