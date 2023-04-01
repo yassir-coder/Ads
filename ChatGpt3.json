@@ -3,13 +3,13 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "facebook",
+			"BannerAd": "admob",
 			"InterstitialAd": "facebook",
 			"NativeAd": "facebook",
 
 			"MyPromo": "no",
-	      
-      "BannerAdmob": "ca-app-pub-9656443482471903/6329745602",
+	       
+                        "BannerAdmob": "ca-app-pub-9656443482471903/6329745602",
 			"InterAdmob":  "ca-app-pub-9656443482471903/4854093978",
 			"NativeAdmob": "ca-app-pub-9656443482471903/3512010571",
 
