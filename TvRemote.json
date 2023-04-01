@@ -9,9 +9,9 @@
 
 			"Gift": "no",
 	      
-                        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+                        "BannerAdmob": "ca-app-pub-9656443482471903/6329745602",
+			"InterAdmob":  "ca-app-pub-9656443482471903/4854093978",
+			"NativeAdmob": "ca-app-pub-9656443482471903/3512010571",
 
 			"MaxBanner": "",
 			"MaxInter": "15b95755cc615c62",
@@ -32,7 +32,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-		"intersitial_click_counter": 3
+		"intersitial_click_counter": 1
 		
 	
       }	  
