@@ -1,0 +1,31 @@
+{
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+			"BannerAd": "facebook",
+			"InterstitialAd": "facebook",
+			"NativeAd": "facebook",
+
+			"MyPromo": "no",
+	      
+      "BannerAdmob": "ca-app-pub-9656443482471903/6329745602",
+			"InterAdmob":  "ca-app-pub-9656443482471903/4854093978",
+			"NativeAdmob": "ca-app-pub-9656443482471903/3512010571",
+
+			"MaxBanner": "",
+			"MaxInter": "",
+			"MaxNative": "",
+	      
+      	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+        "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+        "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
+        "LinkCpa" : "https://cpabuild.com/"
+		
+	
+      }	  
+	      }	  
+	  }
