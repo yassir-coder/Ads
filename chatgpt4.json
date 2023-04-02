@@ -9,8 +9,8 @@
 	      
 	 "MyPromo": "yes",
 	      
-	"FirstBanner": "facebook",
-        "MainBanner":  "admob",
+	"FirstBanner": "max",
+        "MainBanner":  "max",
 	      
       	"InterBtn1": "admob",
         "InterBtn2": "facebook",
@@ -21,10 +21,10 @@
         "InterBtn7": "admob",
         "InterBtn8": "facebook",
         "InterBtn9": "admob",
-        "InterBtn10": "facebook",
+        "InterBtn10": "max",
 
-       	"FirstNative": "admob",
-        "MainNative": "facebook",
+       	"FirstNative": "max",
+        "MainNative": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
