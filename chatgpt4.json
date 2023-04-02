@@ -7,7 +7,7 @@
         "InterstitialAd": "facebook",
         "NativeAd": "facebook",
 	      
-	 "MyPromo": "yes",
+	 "MyPromo": "no",
 	      
 	"FirstBanner": "max",
         "MainBanner":  "max",
