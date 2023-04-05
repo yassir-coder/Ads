@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "admob",
-        "InterstitialAd": "admob",
+        "InterstitialAd": "max",
         "NativeAd": "admob",
 	      
 	 "MyPromo": "no",
@@ -14,12 +14,12 @@
 	      
       	"InterBtn1": "admob",
         "InterBtn2": "admob",
-        "InterBtn3": "admob",
+        "InterBtn3": "max",
         "InterBtn4": "admob",
         "InterBtn5": "admob",
-        "InterBtn6": "admob",
+        "InterBtn6": "max",
         "InterBtn7": "admob",
-        "InterBtn8": "admob",
+        "InterBtn8": "max",
         "InterBtn9": "admob",
         "InterBtn10": "admob",
 
