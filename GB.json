@@ -4,10 +4,10 @@
       {
 		  
         "BannerAd": "max",
-        "InterstitialAd": "facebook",
+        "InterstitialAd": "max",
         "NativeAd": "max",
 	      
-	 "AdsCounter": 3,
+	 "AdsCounter": 5,
 	      
 	 "MyPromo": "no",
 	      		
