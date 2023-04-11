@@ -4,12 +4,12 @@
       {
 		  
         "BannerAd": "max",
-        "InterstitialAd": "max",
+        "InterstitialAd": "admob",
         "NativeAd": "max",
 	      
-	 "AdsCounter": 5,
+	 "AdsCounter": 3,
 	      
-	 "MyPromo": "no",
+	 "MyPromo": "yes",
 	      		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
