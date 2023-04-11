@@ -3,17 +3,15 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
-        "InterstitialAd": "facebook",
-        "NativeAd": "facebook",
+        "BannerAd": "admob",
+        "InterstitialAd": "admob",
+        "NativeAd": "admob",
 	      
 	 "MyPromo": "no",
 	      		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-        "OpenAdmob":  "ca-app-pub-3940256099942544/3419835294",
- 		
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110", 		
 	     
 	    	"MaxBanner" : "YOUR_AD_UNIT_ID",
 	    	"MaxInter" :  "YOUR_AD_UNIT_ID",
