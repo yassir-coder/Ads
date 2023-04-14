@@ -12,15 +12,15 @@
 	"FirstBanner": "facebook",
         "MainBanner":  "facebook",
 	      
-      	"InterBtn1": "max",
-        "InterBtn2": "max",
-        "InterBtn3": "max",
-        "InterBtn4": "max",
-        "InterBtn5": "max",
-        "InterBtn7": "max",
-        "InterBtn8": "max",
-        "InterBtn9": "max",
-        "InterBtn10": "max",
+      	"InterBtn1": "admob",
+        "InterBtn2": "admob",
+        "InterBtn3": "admob",
+        "InterBtn4": "admob",
+        "InterBtn5": "admob",
+        "InterBtn7": "admob",
+        "InterBtn8": "admob",
+        "InterBtn9": "admob",
+        "InterBtn10": "admob",
 
        	"FirstNative": "facebook",
         "MainNative": "facebook",
@@ -48,7 +48,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-         "intersitial_click_counter": 2
+         "intersitial_click_counter": 3
 	      
       }	  
 	      }	  
