@@ -9,8 +9,8 @@
 	      
 	 "MyPromo": "no",
 	      
-	"FirstBanner": "facebook",
-        "MainBanner":  "facebook",
+	"FirstBanner": "admob",
+        "MainBanner":  "admob",
 	      
       	"InterBtn1": "admob",
         "InterBtn2": "admob",
@@ -22,8 +22,8 @@
         "InterBtn9": "admob",
         "InterBtn10": "admob",
 
-       	"FirstNative": "facebook",
-        "MainNative": "facebook",
+       	"FirstNative": "admob",
+        "MainNative": "admob",
 		
         "BannerAdmob": "ca-app-pub-9656443482471903/4021849291",
         "InterAdmob":  "ca-app-pub-9656443482471903/9082604289",
@@ -48,7 +48,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-         "intersitial_click_counter": 3
+         "intersitial_click_counter": 1
 	      
       }	  
 	      }	  
