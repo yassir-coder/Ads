@@ -3,9 +3,9 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "admob",
-			"InterstitialAd": "max",
-			"NativeAd": "max",
+			"BannerAd": "facebook",
+			"InterstitialAd": "facebook",
+			"NativeAd": "facebook",
 
 			"Gift": "no",
 	      
@@ -17,9 +17,9 @@
 			"MaxInter": "15b95755cc615c62",
 			"MaxNative": "778f953e3716872e",
 	      
-	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
-        "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
-        "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
+	"FanBanner": "218850617453018_219199130751500",
+        "FanInter":  "218850617453018_219199204084826",
+        "FanNative": "218850617453018_219199274084819",
         
 		"ironsource_appKey": "168ad62ed",
 		
@@ -32,7 +32,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-		"intersitial_click_counter": 3
+		"intersitial_click_counter": 2
 		
 	
       }	  
