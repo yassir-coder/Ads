@@ -1,0 +1,39 @@
+{
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+        "BannerAd": "max",
+        "InterstitialAd": "admob",
+        "NativeAd": "facebook",
+	     		
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
+	      
+	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+		
+		"MaxBanner" : "c21f973447f478f9",
+		"MaxInter" :  "1de565019d1a4675",
+		"MaxNative" : "7e2d46479db95ff3",
+		
+		"ironsource_appKey": "13875719",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
+        "LinkCpa" : "https://www.google.com/",
+	      
+	 "intersitial_click_counter" : 1
+
+		
+      }	  
+	      }	  
+	  }
