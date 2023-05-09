@@ -3,14 +3,14 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
-        "InterstitialAd": "facebook",
+        "BannerAd": "max",
+        "InterstitialAd": "max",
         "NativeAd": "max",
 	      
 	 "MyPromo": "no",
 	      
-	"FirstBanner": "facebook",
-        "MainBanner": "facebook",
+	"FirstBanner": "max",
+        "MainBanner": "max",
 	      
 	"InterBtn1": "max",
         "InterBtn2": "max",
@@ -50,7 +50,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://www.google.com/",
 	      
-	 "intersitial_click_counter" : 2
+	 "intersitial_click_counter" : 1
 
 		
       }	  
