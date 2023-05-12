@@ -4,8 +4,8 @@
       {
 		  
 			"BannerAd": "facebook",
-			"InterstitialAd": "max",
-			"NativeAd": "max",
+			"InterstitialAd": "facebook",
+			"NativeAd": "",
 
 			"Gift": "no",
 	      
@@ -32,7 +32,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/",
 	      
-		"intersitial_click_counter": 2
+		"intersitial_click_counter": 3
 		
 	
       }	  
